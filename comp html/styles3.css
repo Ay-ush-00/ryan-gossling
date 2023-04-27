@@ -1,0 +1,38 @@
+body
+{
+    background-image: url(https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGxhbmRzY2FwZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+    font-family: cursive;
+}
+.list
+{
+    border: solid palevioletred 2px;
+    padding: 20px;
+}
+table
+{
+    border: solid rgb(99, 96, 97) 2px;
+    border-collapse: collapse;
+}
+th
+{
+border: solid palevioletred 2px;
+padding: 5px;
+}
+.red
+{
+    background-color: rgb(255, 0, 195);
+    color: aliceblue;
+}
+.green
+{
+    background-color: rgb(68, 136, 68);
+}
+.award-img
+{
+    float: right;
+    height: 150px;
+}

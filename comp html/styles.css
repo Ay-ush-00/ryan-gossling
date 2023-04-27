@@ -1,0 +1,123 @@
+.top-slide
+{
+   padding: auto;
+}
+
+.first-img
+{
+    border-radius: 35px;
+    height: 100px;
+    margin-top: 130px;
+    margin-left: 620px;
+    width: 100px;
+
+}
+.img-name
+{
+    color: aliceblue;
+ 
+    font-family: cursive;
+    text-align: center;
+}
+.location
+{
+    font-size: 24px;  
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGxhbmRzY2FwZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.second-slide
+{
+    padding: 20px;
+    padding-right: 50px;
+    height: 500px;
+    margin-top: 50px;
+    padding-top: 70px;
+}
+.SIDE-BAR-NAV{
+    list-style: none;
+}
+.or{
+    color: aliceblue;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+li
+{
+    border: solid palevioletred 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 50px;
+    padding-top: 25px;
+    margin: 20px;
+    width: 200px;
+    border-radius: 25px;
+    transition: 0.5s;
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    font-weight: bold;
+}
+li:hover{
+    color: palevioletred;
+    background-color: aliceblue;
+    border: solid aliceblue 1px;
+}
+.side-tab
+{
+    margin-left: 480px;
+}
+.links
+{
+    margin-top: 50px;
+    height: 150px;
+}
+button
+{
+    height: 50px;
+    width: 100px;
+    margin-top: 50px;
+    float: left;
+    font-family: cursive;
+    color: white;
+    transition: 0.4s;
+}
+.insta
+{
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+border: 0px;
+margin-left: 500px;
+border-radius: 20px;
+}
+.facebook
+{
+    background-color:rgb(56, 103, 178);
+    border: 0px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.Twitter
+{
+    background-color:rgb(29 ,161 ,242);
+    border-radius: 20px;
+    margin-left: 20px;
+    border: 0px;
+}
+.Twitter:hover
+{
+    opacity: 0.5;
+}
+.insta:hover
+{
+    opacity: 0.5;
+}
+.facebook:hover
+{
+    opacity: 0.5;
+}
